@@ -8,6 +8,6 @@ This repo isn't organized into sub packages. Instead, it's best to download the 
 
 2. Simple nested loop application of a naive wumpus world agent + shortest return path developed from scratch
 
-3. OOP-esque application of probabilistic reasoning agent using bayesian networks developed form scratch
+3. OOP+bayesian network application of probabilistic reasoning agent developed form scratch
 
 4. Enahncements to the deep reinforcement Q-learning agent in Zai and Brown
